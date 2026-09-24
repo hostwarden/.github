@@ -14,10 +14,8 @@ local machine alike, and reports on Windows Server. It works with
 Claude Code, OpenCode, or any other terminal-based AI tool that can
 read project files and run shell commands.
 
-- **[hostwarden](https://github.com/hostwarden/hostwarden)**: the
-  rules themselves. Start with its README.
-- **[brand](https://github.com/hostwarden/brand)**: the logo, and
-  how to use it.
+To get started, read the README of the
+**[hostwarden](https://github.com/hostwarden/hostwarden)** repository.
 
 Hostwarden continues [Heinzel](https://github.com/wintermeyer/heinzel)
 by Stefan Wintermeyer as an independent project.
